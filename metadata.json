@@ -1,0 +1,6 @@
+{
+  "name": "Smart Learning Portal",
+  "description": "Comprehensive learning portal for students covering Python, Java, C, DBMS, HTML, Aptitude, Reasoning, HR Interviews, and interactive coding practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
